@@ -1,4 +1,4 @@
-# ReadU
+# TechScript
 
 A simple company portfolio website built using **HTML**, **CSS**, and **JavaScript**. This project provides an interactive and user-friendly experience to browse and explore TechScript services.
 
